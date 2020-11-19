@@ -1,8 +1,9 @@
 ![PicMe Gallery](image/picme-gallery-logo.png)
 
 ## Too Long Didn't Read (Video Intro)
-
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4OGIFVwTRWs?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 ## Project Description
 Have you ever gone on a trip, or to a party with friends, but forgot to take photos? Or did you forget ask your friends to send you photos from the event? 
