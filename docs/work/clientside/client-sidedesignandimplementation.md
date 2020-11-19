@@ -1,6 +1,6 @@
 ## [WireFrame]()
-## [Java docs](javadocs.md)
-## [Data model implementation](entityClasses.md)
+<!-- ## [Java docs](javadocs.md) -->
+<!--## [Data model implementation](entityClasses.md) 
 ## [Data definition language]()
-## [Build & user instructions]()
+## [Build & user instructions]()-->
 ## [Device services](deviceservices.md)
