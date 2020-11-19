@@ -24,6 +24,7 @@ No need to mess with iMessage, Messenger, WhatsApp, Facebook, or Google Photos. 
 
 ### Team Roster
 * Alex Garber
+
 * Shayan Golafshani
 * Isaac Dominguez
 
