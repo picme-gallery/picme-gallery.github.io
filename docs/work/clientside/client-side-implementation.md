@@ -1,4 +1,4 @@
-## [WireFrame]()
+## [WireFrame](../clientside/wireframe.md)
 <!-- ## [Java docs](javadocs.md) -->
 <!--## [Data model implementation](entity-classes.md) 
 ## [Data definition language]()

@@ -1,3 +1,3 @@
-## [Service classes](link to git hub)
+## [Service classes](https://github.com/picme-gallery/picme-gallery-service/tree/master/src/main/java/edu/cnm/deepdive/picmegallery/service)
 
-## [Controller classes](link to github)
+## [Controller classes](https://github.com/picme-gallery/picme-gallery-service/tree/master/src/main/java/edu/cnm/deepdive/picmegallery/controller)

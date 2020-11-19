@@ -1,6 +1,6 @@
 ## [Entity Relationship Diagram](../entity-relationship-diagram.md)
 
-## [Java Docs](../clientside/javadocs.md)
+## [Java Docs](../../api/index.html)
 
 ## [Data-model implementation](data-model-implementation.md)
 

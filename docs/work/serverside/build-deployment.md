@@ -1,4 +1,4 @@
-## Build/Deployment
+## Build and Deployment Instructions
 
 ### Steps to clone in Intelli J Idea:
 

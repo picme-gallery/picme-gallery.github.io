@@ -1,6 +1,6 @@
 ## Project Overview
 
-## [Intended users](work/intendedUsers.md)
+## [Intended users](../work/intended-users.md)
 
 ## [Server side design and implementation](serverside/server-sided-implementation.md)
 
