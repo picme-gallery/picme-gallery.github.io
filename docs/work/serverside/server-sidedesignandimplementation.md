@@ -4,9 +4,11 @@
 
 ## [Data model implementation](datamodelimplementation.md)
 
-## [Data definition language](../clientside/ddl.md)
+## [Data definition language](../serverside/ddl.md)
 
-## [End Point documentation](endpoint.md)
+## [Services documentation](endpoint.md)
 
 ## [Build and deployment instructions](builddeployment.md)
+
+## [External services](externalservices.md)
 

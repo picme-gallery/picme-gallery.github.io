@@ -3,5 +3,4 @@
 ## [Data model implementation](entityClasses.md)
 ## [Data definition language]()
 ## [Build & user instructions]()
-## [Intended users](intendedUsers.md)
-## [Device & External services](deviceandexternalservices.md)
+## [Device services](deviceservices.md)

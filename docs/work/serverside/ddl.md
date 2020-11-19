@@ -8,9 +8,10 @@ create table event
     latitude    double,
     longitude   double,
     name        varchar(255) not null,
-    password    varchar(255) not null,
+    passkey     varchar(255) not null,
     time        timestamp    not null,
     updated     timestamp    not null,
+    user_id     bigint,
     primary key (event_id)
 );
 create table photo
@@ -43,6 +44,8 @@ create index IDX6l2ado7gywlj9aev2utqc2vxm on event (time);
 create index IDX42lv5v1fuasicrdjkvf3cye5f on event (updated);
 create index IDXs0oborte6qspqp6uwkmfmjlr7 on photo (uploaded);
 create unique index UK6f815wi5o4jq8p1q1w63o4mhd on user_profile (oauth_key);
+alter table event
+    add constraint FK1pc5j8kx3fjbbfxrf32oeggc3 foreign key (user_id) references user_profile;
 alter table photo
     add constraint FKdbadfit090kvl159gty4hl5so foreign key (event_id) references event;
 alter table photo
@@ -51,5 +54,4 @@ alter table user_event
     add constraint FKspe8srtv69gubpphvrnd7wekt foreign key (event_id) references event;
 alter table user_event
     add constraint FKpukmmpe4yd7rpwwfcyf7f8jtu foreign key (user_id) references user_profile;
-
 ```
