@@ -54,4 +54,5 @@ alter table user_event
     add constraint FKspe8srtv69gubpphvrnd7wekt foreign key (event_id) references event;
 alter table user_event
     add constraint FKpukmmpe4yd7rpwwfcyf7f8jtu foreign key (user_id) references user_profile;
+
 ```
