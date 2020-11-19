@@ -27,7 +27,7 @@ No need to mess with iMessage, Messenger, WhatsApp, Facebook, or Google Photos. 
 * Shayan Golafshani
 * Isaac Dominguez
 
-## [Current implementation state](work/currentimplementation.md)
+## [Current implementation state](work/current-implementation.md)
 
 
 

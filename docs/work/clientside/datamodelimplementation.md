@@ -1,1 +1,0 @@
-## [Entity Classes](entityClasses.md)
