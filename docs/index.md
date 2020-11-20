@@ -35,30 +35,31 @@ No need to mess with iMessage, Messenger, WhatsApp, Facebook, or Google Photos. 
 ## Alex Garber
 ![Alex Garber](image/alex.jpg)
 
-> Alex, hails from the ABQ, he likes BBQ. He is a fishing, hunting, and spinning fire poi connoisseur.
-Before this bootcamp he was the best pet-store manager you've seen this side of the Mississippi.
+> Alex hails from the ABQ. He likes BBQ. He is also a fishing, hunting, and spinning fire poi connoisseur.
+Before this bootcamp he was the finest pet-store manager you've seen this side of the Mississippi.
 
 > He is currently working on developing another android project to help you make the most of the ingredients
-in your pantry. [Smart-Cheff](https://alex-garber.github.io/smart-cheff/)
+in your pantry. [Smart-Cheff](https://alex-garber.github.io/smart-cheff/) He spends his free time cooking crazy
+recipes with his awesome girlfriend. She is the inspiration behind his app idea!
 
 ## Isaac Dominguez
 ![Isaac Dominguez](image/isaac.jpg)
 
-> Isaac, hails from San Jose, CA, but currently lives in Gallup, NM. He rides motorcycles, mad guitar riffs, and big trucks.
-> In his life before becoming a programmer, he worked as a highly skilled welder and showed his chops working under pressure
-> in the oil industry surrounding Carlsbad, NM.
+> Isaac hails from San Jose, CA, but currently lives in Gallup, NM. He rides motorcycles, mad guitar riffs, and big trucks.
+> In his life before becoming a developer, he worked as a highly skilled welder in the oil industry and showed his chops working under the baking sun in Carlsbad, NM.
+> He never cracks underpressure.
 
-> He is currently working on developing another android project to help you send a text from your phone in case of emergencies. 
-> So if you fall off your motorcycle, get injured, or are somehow incapacitated, you'll be covered.
+> He is currently working on developing another android project to help you send a text from your phone in case of an emergency. 
+> So if you fall off your motorcycle, get injured, or are somehow incapacitated, you'll be covered as long as your phone is within earshot.
 > [Kidnapped App](https://shifdub.github.io/kidnapped/)
 
 ## Shayan Golafshani
 ![Shayan Golafshani](image/shayan.jpg)
 
-> Shayan, has lived in Japan, he likes Karaage Chicken. He cycles, freestyle raps, and hopes to become
-an amateur drifter on the side. He is avid about sustainability. 
+> Shayan, has spent time teaching English in Japan. Karaage Chicken is probably the only thing he loves more than coding. He cycles, freestyle raps, and hopes to become
+an amateur rally drifter on the side. He is avid about sustainability and planning for a livable future on Earth. 
 
-> He is currently working on developing another android project to help you stay connected with your loved ones.
+> He is currently working on developing another android project to help you stay connected with your loved ones. Quite pertinent to the times, eh?
 > [KiT](https://shayan-golafshani.github.io/keep-in-touch/)
 
 
