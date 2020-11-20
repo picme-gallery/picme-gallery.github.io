@@ -2,7 +2,7 @@
 
 ## Too Long Didn't Read (Short & Sweet Video Intro)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=tHq5ygjAuYQ&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHq5ygjAuYQ?start=2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Project Description
