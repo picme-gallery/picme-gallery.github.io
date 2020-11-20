@@ -64,7 +64,7 @@ an amateur drifter on the side. He is avid about sustainability.
 
 
 ## [Current implementation state](work/current-implementation.md)
-
+ 
 [//]: # (Geo-fencing seems pretty rad though!. Maybe we can eventually use it? https://developer.android.com/training/location/geofencing However, we don't want our app to be dependent on it.)
 
 
