@@ -8,7 +8,7 @@
 
 ## [Services documentation](endpoint.md)
 
-## [Build and deployment instructions](build-deployment.md)
+## [Build and deployment instructions](../build-deployment.md)
 
 ## [External services](external-services.md)
 
