@@ -65,6 +65,10 @@ an amateur rally drifter on the side. He is avid about sustainability and planni
 
 
 ## [Current implementation state](work/current-implementation.md)
+
+## [Technology Stack](technologyStack.md)
+
+## [Project Summary](pdf/projectSummary.pdf)
  
 [//]: # (Geo-fencing seems pretty rad though!. Maybe we can eventually use it? https://developer.android.com/training/location/geofencing However, we don't want our app to be dependent on it.)
 
