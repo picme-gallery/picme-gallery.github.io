@@ -66,17 +66,11 @@ an amateur rally drifter on the side. He is avid about sustainability and planni
 
 ## [Current implementation state](work/current-implementation.md)
 
-## [Technology Stack](technology-stack.md)
 
-## [Endpoints](serverside/endpoint.md)
 
-## [Javadocs](work/client-server-javadocs.md)
 
-## [Project Summary](pdf/projectSummary.pdf)
+## [Project Summary PDF](pdf/projectSummary.pdf)
 
-## [Current State of Project]()
-
-## [Build / Deployment Intstructions](work/build-deployment.md)
 
  ## [License](work/license.md)
 
